@@ -1,12 +1,3 @@
----
-name: BIDS Blog Post Instructions
-about: Use this for assigning new blog posts
-title: ''
-labels: ''
-assignees: ''
-
----
-
 # BIDS Blog Post Instructions
 
 - [ ] Create and save your draft in this folder
