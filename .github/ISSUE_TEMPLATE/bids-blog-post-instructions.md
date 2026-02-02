@@ -1,3 +1,11 @@
+---
+name: BIDS Blog Style and Instructions
+about: Use this template for new blog post tasks
+title: ''
+labels: ''
+assignees: ''
+---
+
 # BIDS Blog Post Instructions
 
 - [ ] Create and save your draft in [this folder](https://drive.google.com/drive/folders/14MWOyLiFzHVEw46btOvCr-KOFSFD14uC?usp=drive_link)
