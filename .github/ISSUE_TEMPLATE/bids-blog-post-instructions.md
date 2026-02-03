@@ -38,16 +38,4 @@ assignees: ''
 - [ ] Save but do not publish – add the URL link to the corresponding GitHub issue
 - [ ] Lilli will publish the News items on the website and post on social media
 
----
 
-### formatting notes
-
-Some notes on the formatting (to paste content directly as plain text) for creating a news item content article on the BIDS website:
-
-It's best to use the paste without formatting (command + shift + V as shown on google docs edit tab) as we want to maintain plain text. For me, this option is not working. I instead use the BIDS website content page clipboard toggle button (right next to the format/heading options) to choose to paste my content as plain text directly.
-
-Edit: Command + shift + V is not working for me to paste without formatting. However, if I do Command + Option + shift + V from google docs content --> this works! The content is directly pasted into the BIDS website as plain text without extra html tags (simple & clean). If you do not want to press the toggle button on the BIDS website, you can this alternative!
-
-A couple of observations when experimenting when formatting:
-- I noticed when I used TextEdit (text editor on the Mac) and toggle the button to paste as plain text directly - it does paste correctly (without hyperlinks), however interestingly there is also excess html tags.
-- If I paste from Word, I am unable to paste directly without formatting (looking into this). However, if I toggle the button to paste as plain text directly from Word, it works! I don't see any excess html tags.
